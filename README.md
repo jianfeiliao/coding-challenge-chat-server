@@ -1,5 +1,5 @@
 # Coding Challenge Chat Server
-A simple chat server implementation for a coding challenge.
+A simple chat server implementation for [a coding challenge](https://gist.github.com/jianfeiliao/dba0f0e7da7c978741fd67b091e21288).
 
 # Assumptions & Future Improvements
 This solution make assumption about the user input would be valid, so therefore there is no input validation.
